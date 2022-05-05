@@ -1,0 +1,8 @@
+app:
+  release: false
+  name: "password-generator"
+  http_port: 10051
+  grpc_port: 50051
+  log:
+    dir: "logs"
+    file: "app.log"
